@@ -11,7 +11,23 @@
 			"file": "/H/home-audio-controller/src/main.c",
 			"settings":
 			{
-				"buffer_size": 347,
+				"buffer_size": 970,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/H/home-audio-controller/inc/includes.h",
+			"settings":
+			{
+				"buffer_size": 647,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,7 +35,23 @@
 			"file": "/H/home-audio-controller/src/bsp/bsp.c",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 629,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/home-audio-controller/inc/bsp.h",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/home-audio-controller/src/bsp/bsp_usb.c",
+			"settings":
+			{
+				"buffer_size": 597,
 				"line_ending": "Windows"
 			}
 		}
@@ -27,11 +59,27 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 58.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -48,7 +96,24 @@
 	},
 	"file_history":
 	[
-		"/H/home-audio-controller/proj/home-audio-controller.sublime-project"
+		"/H/home-audio-controller/doc/readme.txt",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/Dashed Comments/DashedComments.py",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/Dashed Comments/package-metadata.json",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/Dashed Comments/Default (Windows).sublime-keymap",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/templates/c.tmpl",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/H/home-audio-controller/proj/home-audio-controller.sublime-project",
+		"/H/home-audio-controller/src/bsp/bsp.c",
+		"/H/home-audio-controller/src/main.c",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/User/SublimeTmpl.sublime-settings",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/Default.sublime-commands",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/Main.sublime-menu",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/templates/css.tmpl",
+		"/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/SublimeTmpl/Default (Windows).sublime-keymap"
 	],
 	"find":
 	{
@@ -91,15 +156,15 @@
 					"file": "/H/home-audio-controller/src/main.c",
 					"settings":
 					{
-						"buffer_size": 347,
+						"buffer_size": 970,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								293,
-								293
+								854,
+								854
 							]
 						],
 						"settings":
@@ -108,8 +173,33 @@
 							[
 								80
 							],
-							"syntax": "Packages/C++/C.tmLanguage",
-							"wrap_width": 80
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/yi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -118,32 +208,97 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/H/home-audio-controller/src/bsp/bsp.c",
+					"buffer": 2,
+					"file": "/H/home-audio-controller/inc/includes.h",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 647,
 						"regions":
 						{
-							"mark":
-							{
-								"flags": 144,
-								"icon": "dot",
-								"regions":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"scope": "mark"
-							}
 						},
 						"selection":
 						[
 							[
-								0,
+								41,
 								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/H/home-audio-controller/src/bsp/bsp.c",
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								627,
+								627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/H/home-audio-controller/inc/bsp.h",
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/H/home-audio-controller/src/bsp/bsp_usb.c",
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
 							]
 						],
 						"settings":

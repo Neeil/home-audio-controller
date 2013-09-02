@@ -2,10 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "../src"
-		},
-		{
-			"path": "../inc"
+			"path": "/H/home-audio-controller"
 		}
 	]
 }

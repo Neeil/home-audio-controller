@@ -15,7 +15,13 @@
 
 /**********		Functions 		***********************************************/
 
+
+//	Function Name:  void bsp_init(void)
+//	Input:			None;
+//	Output:			None;
+//	Des:			Init the board support package.
+//	Where Called:	main.c/system_init()
 void bsp_init(void)
 {
-
+	
 }

@@ -16,16 +16,26 @@
 /**********		Functions 		***********************************************/
 
 
-
+//	Function Name:  void system_init(void)
+//	Input:			None;
+//	Output:			None;
+//	Des:			Init the system.
+//	Where Called:	main.c/main()
 void system_init(void)
 {
-	
+	bsp_init();
 }
 
 
-
+//	Function Name:  void main(void)
+//	Input:			None;
+//	Output:			None;
+//	Des:			entry of the firmeare
+//	Where Called:	
 int main(void)
 {
+	system_init();
+
 	while(1)
 	{
 		
